@@ -1,0 +1,8 @@
+{
+	"dependencies": {
+		"cheerio": "^1.0.0",
+		"epub-gen": "^0.1.0",
+		"puppeteer": "^23.4.1",
+		"slug": "^9.1.0"
+	}
+}

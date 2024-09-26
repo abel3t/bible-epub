@@ -1,0 +1,96 @@
+
+
+<div>
+<ul class="dropdown-menu bible-chapter">
+                            <li class="dropdown-item"><a href="/doc-kinh-thanh/sa/0?v=RVV11" class="btn-danger"><i class="glyphicon glyphicon-info-sign"></i></a></li>
+                                                        <li class="dropdown-item"><a href="/doc-kinh-thanh/sa/1?v=RVV11">1</a></li>
+                                <li class="dropdown-item"><a href="#sa_1>2</a></li>
+                                <li class="dropdown-item"><a href="#sa_1">3</a></li>
+                                <li class="dropdown-item"><a href="/doc-kinh-thanh/sa/4?v=RVV11">4</a></li>
+                                <li class="dropdown-item"><a href="/doc-kinh-thanh/sa/5?v=RVV11">5</a></li>
+                                <li class="dropdown-item"><a href="/doc-kinh-thanh/sa/6?v=RVV11">6</a></li>
+                                <li class="dropdown-item"><a href="/doc-kinh-thanh/sa/7?v=RVV11">7</a></li>
+                                <li class="dropdown-item"><a href="/doc-kinh-thanh/sa/8?v=RVV11">8</a></li>
+                                <li class="dropdown-item"><a href="/doc-kinh-thanh/sa/9?v=RVV11">9</a></li>
+                                <li class="dropdown-item"><a href="/doc-kinh-thanh/sa/10?v=RVV11" style="background: #ccc">10</a></li>
+                                <li class="dropdown-item"><a href="/doc-kinh-thanh/sa/11?v=RVV11">11</a></li>
+                                <li class="dropdown-item"><a href="/doc-kinh-thanh/sa/12?v=RVV11">12</a></li>
+                                <li class="dropdown-item"><a href="/doc-kinh-thanh/sa/13?v=RVV11">13</a></li>
+                                <li class="dropdown-item"><a href="/doc-kinh-thanh/sa/14?v=RVV11">14</a></li>
+                                <li class="dropdown-item"><a href="/doc-kinh-thanh/sa/15?v=RVV11">15</a></li>
+                                <li class="dropdown-item"><a href="/doc-kinh-thanh/sa/16?v=RVV11">16</a></li>
+                                <li class="dropdown-item"><a href="/doc-kinh-thanh/sa/17?v=RVV11">17</a></li>
+                                <li class="dropdown-item"><a href="/doc-kinh-thanh/sa/18?v=RVV11">18</a></li>
+                                <li class="dropdown-item"><a href="/doc-kinh-thanh/sa/19?v=RVV11">19</a></li>
+                                <li class="dropdown-item"><a href="/doc-kinh-thanh/sa/20?v=RVV11" style="background: #ccc">20</a></li>
+                                <li class="dropdown-item"><a href="/doc-kinh-thanh/sa/21?v=RVV11">21</a></li>
+                                <li class="dropdown-item"><a href="/doc-kinh-thanh/sa/22?v=RVV11">22</a></li>
+                                <li class="dropdown-item"><a href="/doc-kinh-thanh/sa/23?v=RVV11">23</a></li>
+                                <li class="dropdown-item"><a href="/doc-kinh-thanh/sa/24?v=RVV11">24</a></li>
+                                <li class="dropdown-item"><a href="/doc-kinh-thanh/sa/25?v=RVV11">25</a></li>
+                                <li class="dropdown-item"><a href="/doc-kinh-thanh/sa/26?v=RVV11">26</a></li>
+                                <li class="dropdown-item"><a href="/doc-kinh-thanh/sa/27?v=RVV11">27</a></li>
+                                <li class="dropdown-item"><a href="/doc-kinh-thanh/sa/28?v=RVV11">28</a></li>
+                                <li class="dropdown-item"><a href="/doc-kinh-thanh/sa/29?v=RVV11">29</a></li>
+                                <li class="dropdown-item"><a href="/doc-kinh-thanh/sa/30?v=RVV11" style="background: #ccc">30</a></li>
+                                <li class="dropdown-item"><a href="/doc-kinh-thanh/sa/31?v=RVV11">31</a></li>
+                                <li class="dropdown-item"><a href="/doc-kinh-thanh/sa/32?v=RVV11">32</a></li>
+                                <li class="dropdown-item"><a href="/doc-kinh-thanh/sa/33?v=RVV11">33</a></li>
+                                <li class="dropdown-item"><a href="/doc-kinh-thanh/sa/34?v=RVV11">34</a></li>
+                                <li class="dropdown-item"><a href="/doc-kinh-thanh/sa/35?v=RVV11">35</a></li>
+                                <li class="dropdown-item"><a href="/doc-kinh-thanh/sa/36?v=RVV11">36</a></li>
+                                <li class="dropdown-item"><a href="/doc-kinh-thanh/sa/37?v=RVV11">37</a></li>
+                                <li class="dropdown-item"><a href="/doc-kinh-thanh/sa/38?v=RVV11">38</a></li>
+                                <li class="dropdown-item"><a href="/doc-kinh-thanh/sa/39?v=RVV11">39</a></li>
+                                <li class="dropdown-item"><a href="/doc-kinh-thanh/sa/40?v=RVV11" style="background: #ccc">40</a></li>
+                                <li class="dropdown-item"><a href="/doc-kinh-thanh/sa/41?v=RVV11">41</a></li>
+                                <li class="dropdown-item"><a href="/doc-kinh-thanh/sa/42?v=RVV11">42</a></li>
+                                <li class="dropdown-item"><a href="/doc-kinh-thanh/sa/43?v=RVV11">43</a></li>
+                                <li class="dropdown-item"><a href="/doc-kinh-thanh/sa/44?v=RVV11">44</a></li>
+                                <li class="dropdown-item"><a href="/doc-kinh-thanh/sa/45?v=RVV11">45</a></li>
+                                <li class="dropdown-item"><a href="/doc-kinh-thanh/sa/46?v=RVV11">46</a></li>
+                                <li class="dropdown-item"><a href="/doc-kinh-thanh/sa/47?v=RVV11">47</a></li>
+                                <li class="dropdown-item"><a href="/doc-kinh-thanh/sa/48?v=RVV11">48</a></li>
+                                <li class="dropdown-item"><a href="/doc-kinh-thanh/sa/49?v=RVV11">49</a></li>
+                                <li class="dropdown-item"><a href="/doc-kinh-thanh/sa/50?v=RVV11" style="background: #ccc">50</a></li>
+                    </ul>
+                    </div>
+
+<div class="col-md-6 col-sm-6 bible-read">
+
+<div id="sa_1">
+<div class="title"><h1>1</h1><h2>Thời cổ đại, từ buổi sáng thế đến đời Áp-ra-ham</h2><p>(1:1 – 11:9)</p><h3>Sự sáng tạo vũ trụ</h3></div>
+<span class="verse sa_1_1"> <sup>1</sup>Ban đầu, Đức Chúa Trời sáng tạo trời và đất.<br></span>
+<span class="verse sa_1_2"> <sup>2</sup>Đất không có hình dạng và trống không, bóng tối bao trùm mặt vực, và Thần của Đức Chúa Trời<a data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Ctd: quyền năng của Đức Chúa Trời; hoặc: một ngọn gió từ Đức Chúa Trời.">⚓</a> vận hành trên mặt nước. </span>
+<span class="verse sa_1_3"><sup>3</sup>Đức Chúa Trời phán: “Phải có ánh sáng,” thì có ánh sáng.<a data-toggle="tooltip" data-placement="bottom" title="" data-original-title="II Cô 4:6">⚓</a></span>
+<span class="verse sa_1_4"><sup>4</sup>Đức Chúa Trời thấy ánh sáng là tốt đẹp. Đức Chúa Trời phân rẽ ánh sáng khỏi bóng tối. </span>
+<span class="verse sa_1_5"><sup>5</sup>Đức Chúa Trời gọi ánh sáng là “ngày,” và bóng tối là “đêm.” Vậy, có buổi tối và buổi sáng. Đó là ngày thứ nhất.<br></span>
+<span class="verse sa_1_6"> <sup>6</sup>Đức Chúa Trời lại phán: “Phải có một cái vòm giữa khối nước để phân cách nước với nước.”<a data-toggle="tooltip" data-placement="bottom" title="" data-original-title="II Phi 3:5">⚓</a></span>
+<span class="verse sa_1_7"><sup>7</sup>Đức Chúa Trời làm nên vòm trời và phân cách nước ở dưới vòm với nước ở trên vòm, thì có như vậy. </span>
+<span class="verse sa_1_8"><sup>8</sup>Đức Chúa Trời gọi cái vòm là “bầu trời.” Vậy, có buổi tối và buổi sáng. Đó là ngày thứ hai.<br></span>
+<span class="verse sa_1_9"> <sup>9</sup>Đức Chúa Trời phán: “Nước dưới bầu trời phải tụ lại một nơi và phải có chỗ khô cạn xuất hiện,” thì có như vậy. </span>
+<span class="verse sa_1_10"><sup>10</sup>Đức Chúa Trời gọi chỗ khô cạn là “đất,” còn khối nước tụ lại là “biển.” Đức Chúa Trời thấy điều đó là tốt đẹp. </span>
+<span class="verse sa_1_11"><sup>11</sup>Đức Chúa Trời phán: “Đất phải sinh thảo mộc: cỏ kết hạt giống, cây trên đất tùy theo loại mà ra trái và kết hạt,” thì có như vậy. </span>
+<span class="verse sa_1_12"><sup>12</sup>Đất sinh cây cỏ: cỏ kết hạt tùy theo loại, cây ra trái và trong trái có hạt, tùy theo loại. Đức Chúa Trời thấy điều đó là tốt đẹp. </span>
+<span class="verse sa_1_13"><sup>13</sup>Vậy, có buổi tối và buổi sáng. Đó là ngày thứ ba.<br></span>
+<span class="verse sa_1_14"> <sup>14</sup>Đức Chúa Trời phán: “Phải có các vì sáng trên vòm trời để phân biệt ngày với đêm, để làm dấu hiệu xác định các mùa,<a data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Ctd: các kỳ lễ hội.">⚓</a> ngày và năm; </span>
+<span class="verse sa_1_15"><sup>15</sup>và để làm các vì sáng trên vòm trời soi sáng quả đất,” thì có như vậy. </span>
+<span class="verse sa_1_16"><sup>16</sup>Đức Chúa Trời tạo nên hai vì sáng lớn: vì sáng lớn hơn để cai quản ban ngày, vì sáng nhỏ hơn để cai quản ban đêm. Ngài cũng tạo nên các ngôi sao. </span>
+<span class="verse sa_1_17"><sup>17</sup>Đức Chúa Trời đặt các vì sáng đó trên vòm trời để soi sáng quả đất, </span>
+<span class="verse sa_1_18"><sup>18</sup>cai quản ban ngày và ban đêm, và phân rẽ ánh sáng khỏi bóng tối. Đức Chúa Trời thấy điều đó là tốt đẹp. </span>
+<span class="verse sa_1_19"><sup>19</sup>Vậy, có buổi tối và buổi sáng. Đó là ngày thứ tư.<br></span>
+<span class="verse sa_1_20"> <sup>20</sup>Đức Chúa Trời phán: “Nước phải đầy dẫy các loài thủy sinh vật, và phải có các loài chim bay lượn trên mặt đất dưới vòm trời.” </span>
+<span class="verse sa_1_21"><sup>21</sup>Đức Chúa Trời sáng tạo các loài cá khổng lồ, mọi loài động vật thủy sinh, tùy theo loại mà sinh sôi nẩy nở trong nước, và mọi loài chim có cánh tùy theo loại. Đức Chúa Trời thấy điều đó là tốt đẹp. </span>
+<span class="verse sa_1_22"><sup>22</sup>Đức Chúa Trời ban phước cho các loài đó và phán: “Hãy sinh sôi nẩy nở thật nhiều, làm cho đầy dẫy dưới biển; còn các loài chim hãy gia tăng thật nhiều trên đất.” </span>
+<span class="verse sa_1_23"><sup>23</sup>Vậy, có buổi tối và buổi sáng. Đó là ngày thứ năm.<br></span>
+<span class="verse sa_1_24"> <sup>24</sup>Đức Chúa Trời phán: “Đất phải sinh các động vật tùy theo loại: gia súc, các loài bò sát và thú rừng tùy theo loại,” thì có như vậy. </span>
+<span class="verse sa_1_25"><sup>25</sup>Đức Chúa Trời tạo nên các loài thú rừng tùy theo loại, gia súc tùy theo loại, và mọi loài bò sát trên đất tùy theo loại. Đức Chúa Trời thấy điều đó là tốt đẹp.<br></span>
+<div class="title"><h3>Sự sáng tạo loài người</h3></div>
+<span class="verse sa_1_26"> <sup>26</sup>Đức Chúa Trời phán: “Chúng Ta hãy tạo nên loài người theo hình ảnh Chúng Ta và giống như Chúng Ta, để quản trị loài cá biển, loài chim trời, loài gia súc, và khắp cả đất,<a data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Cổ bản Syriac: và mọi thú rừng.">⚓</a> cùng mọi loài bò sát trên mặt đất.”<a data-toggle="tooltip" data-placement="bottom" title="" data-original-title="I Cô 11:7">⚓</a><br></span>
+<span class="verse sa_1_27">  <sup>27</sup>Đức Chúa Trời sáng tạo loài người theo hình ảnh Ngài.<a data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Mat 19:4; Mác 10:6">⚓</a><a data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Sáng 5:1-2">⚓</a><br>   Ngài sáng tạo loài người theo hình ảnh Đức Chúa Trời.<br>   Ngài sáng tạo người nam và người nữ.<br></span>
+<span class="verse sa_1_28"><sup>28</sup>Đức Chúa Trời ban phước cho loài người và phán: “Hãy sinh sản, gia tăng gấp bội và làm cho đầy dẫy đất; hãy làm cho đất phục tùng, hãy quản trị loài cá dưới biển, loài chim trên trời và mọi loài bò sát trên mặt đất.”<br></span>
+<span class="verse sa_1_29"> <sup>29</sup>Đức Chúa Trời lại phán: “Nầy, Ta sẽ ban cho các con mọi thứ cỏ kết hạt mọc khắp mặt đất, cùng mọi loài cây ra trái có hạt. Đó sẽ là thức ăn cho các con. </span>
+<span class="verse sa_1_30"><sup>30</sup>Còn các loài thú rừng, loài chim trên trời, loài vật bò sát trên mặt đất, và bất cứ loài nào có sự sống thì Ta ban mọi thứ cỏ xanh dùng làm thức ăn,” thì có như vậy. </span>
+<span class="verse sa_1_31"><sup>31</sup>Đức Chúa Trời thấy mọi việc Ngài đã tạo dựng thật rất tốt đẹp. Vậy, có buổi tối và buổi sáng. Đó là ngày thứ sáu.<br></span>
+</div>
+        </div>
